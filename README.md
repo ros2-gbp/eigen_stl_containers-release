@@ -1,3 +1,26 @@
+## eigen_stl_containers (jazzy) - 1.1.0-1
+
+The packages in the `eigen_stl_containers` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy eigen_stl_containers` on `Fri, 24 Jan 2025 20:18:51 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers.git
+- release repository: https://github.com/ros2-gbp/eigen_stl_containers-release.git
+- rosdistro version: `1.0.0-7`
+- old version: `1.0.0-7`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## eigen_stl_containers (humble) - 1.1.0-1
 
 The packages in the `eigen_stl_containers` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble eigen_stl_containers` on `Fri, 24 Jan 2025 20:17:44 -0000`
